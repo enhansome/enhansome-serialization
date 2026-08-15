@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T03:06:25Z",
+            "last_commit": "2026-08-15T00:36:22Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71727
+            "stars": 71730
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20566
+            "stars": 20565
           }
         },
         {
@@ -103,7 +103,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:33:10Z",
+            "last_commit": "2026-08-14T07:48:27Z",
             "owner": "msgpack",
             "repo": "msgpack-python",
             "stars": 2100
@@ -138,7 +138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:09:26.484Z",
+    "last_updated": "2026-08-15T01:59:15.868Z",
     "original_repository": "maximveksler/awesome-serialization",
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
     "enhanced_repository": "enhansome/enhansome-serialization",
