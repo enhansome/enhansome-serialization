@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-19T01:26:23Z",
+            "last_commit": "2026-08-19T10:11:04Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71736
+            "stars": 71737
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8385616,
             "language": null,
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20577
+            "stars": 20578
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95812766,
             "language": null,
             "last_commit": "2025-08-27T22:46:19Z",
             "owner": "FasterXML",
@@ -49,97 +52,90 @@
       "title": "API"
     },
     {
-      "description": "Serialization formats and protocols designed for LLM agents, tool calling, token efficiency, and agent-to-agent communication.",
-      "items": [],
-      "title": "Agentic"
-    },
-    {
       "description": "Language-native serialization formats for in-transit data (aka memory-based \"live\" objects).",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "avsc",
+              "description": "JavaScript implementation of Apache Avro. Textual.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42375652,
+                "language": "JavaScript",
+                "last_commit": "2026-02-22T22:20:04Z",
+                "owner": "mtth",
+                "repo": "avsc",
+                "stars": 1384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BSON.js",
+              "description": "BSON serializer. Binary.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3658431,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T19:56:59Z",
+                "owner": "mongodb",
+                "repo": "js-bson",
+                "stars": 1215
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "msgpack-python",
+              "description": "MessagePack serializer implementation for Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2242705,
+                "language": "Python",
+                "last_commit": "2026-08-17T05:59:09Z",
+                "owner": "msgpack",
+                "repo": "msgpack-python",
+                "stars": 2101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "srsly",
+              "description": "Modern high-performance serialization utilities for Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159904634,
+                "language": "Python",
+                "last_commit": "2026-03-27T08:49:53Z",
+                "owner": "explosion",
+                "repo": "srsly",
+                "stars": 485
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        }
+      ],
       "title": "Programming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "avsc",
-          "description": "JavaScript implementation of Apache Avro. Textual.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-22T22:20:04Z",
-            "owner": "mtth",
-            "repo": "avsc",
-            "stars": 1384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BSON.js",
-          "description": "BSON serializer. Binary.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T19:56:59Z",
-            "owner": "mongodb",
-            "repo": "js-bson",
-            "stars": 1216
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "msgpack-python",
-          "description": "MessagePack serializer implementation for Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T05:59:09Z",
-            "owner": "msgpack",
-            "repo": "msgpack-python",
-            "stars": 2101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "srsly",
-          "description": "Modern high-performance serialization utilities for Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-27T08:49:53Z",
-            "owner": "explosion",
-            "repo": "srsly",
-            "stars": 485
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Maxim Veksler has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:04:16.413Z",
+    "last_updated": "2026-08-19T12:50:10.272Z",
     "original_repository": "maximveksler/awesome-serialization",
+    "original_repository_id": 163650590,
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
     "enhanced_repository": "enhansome/enhansome-serialization",
     "enhanced_repository_description": null,
