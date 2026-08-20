@@ -12,10 +12,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-19T10:11:04Z",
+            "last_commit": "2026-08-20T01:57:46Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71737
+            "stars": 71740
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20578
+            "stars": 20579
           }
         },
         {
@@ -133,7 +133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:10.272Z",
+    "last_updated": "2026-08-20T02:03:45.178Z",
     "original_repository": "maximveksler/awesome-serialization",
     "original_repository_id": 163650590,
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
