@@ -12,10 +12,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-24T01:22:26Z",
+            "last_commit": "2026-08-24T13:50:48Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71814
+            "stars": 71820
           }
         },
         {
@@ -52,6 +52,120 @@
       "title": "API"
     },
     {
+      "description": "Serialization formats and protocols designed for LLM agents, tool calling, token efficiency, and agent-to-agent communication.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TOON",
+              "description": "Token-Oriented Object Notation. Compact, schema-aware JSON alternative achieving 30–60% token savings for LLM prompts. Textual.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1081397957,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T08:37:43Z",
+                "owner": "toon-format",
+                "repo": "toon",
+                "stars": 25239
+              }
+            }
+          ],
+          "description": "Formats optimized to minimize token consumption when passing structured data to LLMs.",
+          "node_type": "group",
+          "title": "Token-Efficient Formats"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A2A",
+              "description": "Agent2Agent Protocol. Google's open protocol for agent-to-agent communication and interoperability. JSON based. Textual.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954873280,
+                "language": "Shell",
+                "last_commit": "2026-08-21T19:46:58Z",
+                "owner": "a2aproject",
+                "repo": "A2A",
+                "stars": 25479
+              }
+            }
+          ],
+          "description": "Communication protocols enabling tool use and inter-agent collaboration.",
+          "node_type": "group",
+          "title": "Agent Protocols"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BAML",
+              "description": "Boundary AI Markup Language. Domain-specific language for defining LLM function signatures with type-safe structured output. Textual.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701494311,
+                "language": "Rust",
+                "last_commit": "2026-08-24T09:32:21Z",
+                "owner": "BoundaryML",
+                "repo": "baml",
+                "stars": 9074
+              }
+            }
+          ],
+          "description": "Formats and schemas for constraining and validating LLM-generated structured data.",
+          "node_type": "group",
+          "title": "Structured Output"
+        }
+      ],
+      "title": "Agentic"
+    },
+    {
+      "description": "Serialization of deep learning networks and weights.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GGUF",
+          "description": "Quantized model format for llama.cpp/ggml. The de facto standard for local LLM inference. Binary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 538180525,
+            "language": "C++",
+            "last_commit": "2026-08-21T12:39:25Z",
+            "owner": "ggml-org",
+            "repo": "ggml",
+            "stars": 15221
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "Serialization formats designed with security and robustness in mind.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "safetensors",
+          "description": "Safe serialization of tensors for machine learning. Binary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 540033828,
+            "language": "Rust",
+            "last_commit": "2026-08-23T15:31:48Z",
+            "owner": "safetensors",
+            "repo": "safetensors",
+            "stars": 3870
+          }
+        }
+      ],
+      "title": "Security-Focused"
+    },
+    {
       "description": "Language-native serialization formats for in-transit data (aka memory-based \"live\" objects).",
       "items": [
         {
@@ -83,13 +197,35 @@
                 "last_commit": "2026-08-20T23:26:29Z",
                 "owner": "mongodb",
                 "repo": "js-bson",
-                "stars": 1215
+                "stars": 1216
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dart Object Serialization",
+              "description": "RAM to Disk serialization. Dart-specific. Binary.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99045602,
+                "language": "Dart",
+                "last_commit": "2026-08-24T08:59:05Z",
+                "owner": "flutter",
+                "repo": "packages",
+                "stars": 5292
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart"
         },
         {
           "children": [
@@ -127,13 +263,57 @@
           "description": null,
           "node_type": "group",
           "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MessagePack.swift",
+              "description": "Swift MessagePack Serializer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31135777,
+                "language": "Swift",
+                "last_commit": "2020-06-09T13:43:02Z",
+                "owner": "a2",
+                "repo": "MessagePack.swift",
+                "stars": 291
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bincode",
+              "description": "High-performance binary serialization for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24130045,
+                "language": null,
+                "last_commit": "2025-08-15T11:21:51Z",
+                "owner": "bincode-org",
+                "repo": "bincode",
+                "stars": 3061
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         }
       ],
       "title": "Programming"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:08:58.025Z",
+    "last_updated": "2026-08-24T14:46:39.998Z",
     "original_repository": "maximveksler/awesome-serialization",
     "original_repository_id": 163650590,
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
