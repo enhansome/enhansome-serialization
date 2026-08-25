@@ -12,10 +12,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-24T13:50:48Z",
+            "last_commit": "2026-08-25T01:38:06Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71820
+            "stars": 71821
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20583
+            "stars": 20584
           }
         },
         {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-23T08:37:43Z",
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25239
+                "stars": 25244
               }
             }
           ],
@@ -87,10 +87,10 @@
                 "archived": false,
                 "id": 954873280,
                 "language": "Shell",
-                "last_commit": "2026-08-21T19:46:58Z",
+                "last_commit": "2026-08-24T20:57:49Z",
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25479
+                "stars": 25483
               }
             }
           ],
@@ -109,10 +109,10 @@
                 "archived": false,
                 "id": 701494311,
                 "language": "Rust",
-                "last_commit": "2026-08-24T09:32:21Z",
+                "last_commit": "2026-08-25T01:47:21Z",
                 "owner": "BoundaryML",
                 "repo": "baml",
-                "stars": 9074
+                "stars": 9076
               }
             }
           ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-21T12:39:25Z",
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15221
+            "stars": 15223
           }
         }
       ],
@@ -156,10 +156,10 @@
             "archived": false,
             "id": 540033828,
             "language": "Rust",
-            "last_commit": "2026-08-23T15:31:48Z",
+            "last_commit": "2026-08-24T16:03:14Z",
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3870
+            "stars": 3871
           }
         }
       ],
@@ -194,7 +194,7 @@
                 "archived": false,
                 "id": 3658431,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T23:26:29Z",
+                "last_commit": "2026-08-24T21:52:31Z",
                 "owner": "mongodb",
                 "repo": "js-bson",
                 "stars": 1216
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 99045602,
                 "language": "Dart",
-                "last_commit": "2026-08-24T08:59:05Z",
+                "last_commit": "2026-08-25T01:35:07Z",
                 "owner": "flutter",
                 "repo": "packages",
-                "stars": 5292
+                "stars": 5291
               }
             }
           ],
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:39.998Z",
+    "last_updated": "2026-08-25T02:05:25.624Z",
     "original_repository": "maximveksler/awesome-serialization",
     "original_repository_id": 163650590,
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
