@@ -12,10 +12,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-25T01:38:06Z",
+            "last_commit": "2026-08-25T05:38:42Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71821
+            "stars": 71822
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20584
+            "stars": 20585
           }
         },
         {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-23T08:37:43Z",
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25244
+                "stars": 25246
               }
             }
           ],
@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-24T20:57:49Z",
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25483
+                "stars": 25485
               }
             }
           ],
@@ -109,10 +109,10 @@
                 "archived": false,
                 "id": 701494311,
                 "language": "Rust",
-                "last_commit": "2026-08-25T01:47:21Z",
+                "last_commit": "2026-08-25T06:35:17Z",
                 "owner": "BoundaryML",
                 "repo": "baml",
-                "stars": 9076
+                "stars": 9077
               }
             }
           ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-21T12:39:25Z",
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15223
+            "stars": 15225
           }
         }
       ],
@@ -159,7 +159,7 @@
             "last_commit": "2026-08-24T16:03:14Z",
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3871
+            "stars": 3872
           }
         }
       ],
@@ -238,7 +238,7 @@
                 "archived": false,
                 "id": 2242705,
                 "language": "Python",
-                "last_commit": "2026-08-17T05:59:09Z",
+                "last_commit": "2026-08-25T04:25:45Z",
                 "owner": "msgpack",
                 "repo": "msgpack-python",
                 "stars": 2101
@@ -313,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:05:25.624Z",
+    "last_updated": "2026-08-25T06:41:22.756Z",
     "original_repository": "maximveksler/awesome-serialization",
     "original_repository_id": 163650590,
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
