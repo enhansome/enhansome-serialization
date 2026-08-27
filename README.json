@@ -12,10 +12,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-27T08:51:40Z",
+            "last_commit": "2026-08-27T11:46:29Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71823
+            "stars": 71824
           }
         },
         {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-23T08:37:43Z",
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25263
+                "stars": 25265
               }
             }
           ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-25T08:45:28Z",
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15238
+            "stars": 15239
           }
         }
       ],
@@ -156,7 +156,7 @@
             "archived": false,
             "id": 540033828,
             "language": "Rust",
-            "last_commit": "2026-08-26T16:40:18Z",
+            "last_commit": "2026-08-27T11:52:34Z",
             "owner": "safetensors",
             "repo": "safetensors",
             "stars": 3876
@@ -313,9 +313,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:26:02.096Z",
-    "original_repository": "maximveksler/awesome-serialization",
-    "original_repository_id": 163650590,
+    "last_updated": "2026-08-27T12:06:12.102Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 163650590,
+      "language": null,
+      "last_commit": "2026-02-26T14:13:20Z",
+      "owner": "maximveksler",
+      "repo": "awesome-serialization",
+      "stars": 56
+    },
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
     "enhanced_repository": "enhansome/enhansome-serialization",
     "enhanced_repository_description": null,
