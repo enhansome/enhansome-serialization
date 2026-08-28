@@ -12,11 +12,12 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-27T11:46:29Z",
+            "last_commit": "2026-08-28T11:47:03Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71824
-          }
+            "stars": 71825
+          },
+          "first_seen": "2026-08-28T12:05:38.755Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20588
-          }
+            "stars": 20591
+          },
+          "first_seen": "2026-08-28T12:05:38.755Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "FasterXML",
             "repo": "smile-format-specification",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T12:05:38.755Z"
         }
       ],
       "title": "API"
@@ -68,8 +71,9 @@
                 "last_commit": "2026-08-23T08:37:43Z",
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25265
-              }
+                "stars": 25269
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": "Formats optimized to minimize token consumption when passing structured data to LLMs.",
@@ -87,11 +91,12 @@
                 "archived": false,
                 "id": 954873280,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:28:14Z",
+                "last_commit": "2026-08-28T10:50:09Z",
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25513
-              }
+                "stars": 25529
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": "Communication protocols enabling tool use and inter-agent collaboration.",
@@ -109,11 +114,12 @@
                 "archived": false,
                 "id": 701494311,
                 "language": "Rust",
-                "last_commit": "2026-08-27T05:04:29Z",
+                "last_commit": "2026-08-28T10:13:49Z",
                 "owner": "BoundaryML",
                 "repo": "baml",
-                "stars": 9081
-              }
+                "stars": 9084
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": "Formats and schemas for constraining and validating LLM-generated structured data.",
@@ -138,8 +144,9 @@
             "last_commit": "2026-08-25T08:45:28Z",
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15239
-          }
+            "stars": 15247
+          },
+          "first_seen": "2026-08-28T12:05:38.755Z"
         }
       ],
       "title": "Machine Learning"
@@ -159,8 +166,9 @@
             "last_commit": "2026-08-27T11:52:34Z",
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3876
-          }
+            "stars": 3878
+          },
+          "first_seen": "2026-08-28T12:05:38.755Z"
         }
       ],
       "title": "Security-Focused"
@@ -183,7 +191,8 @@
                 "owner": "mtth",
                 "repo": "avsc",
                 "stars": 1384
-              }
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             },
             {
               "node_type": "item",
@@ -194,11 +203,12 @@
                 "archived": false,
                 "id": 3658431,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T16:35:46Z",
+                "last_commit": "2026-08-28T10:40:00Z",
                 "owner": "mongodb",
                 "repo": "js-bson",
                 "stars": 1216
-              }
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": null,
@@ -216,11 +226,12 @@
                 "archived": false,
                 "id": 99045602,
                 "language": "Dart",
-                "last_commit": "2026-08-26T20:14:30Z",
+                "last_commit": "2026-08-28T12:04:32Z",
                 "owner": "flutter",
                 "repo": "packages",
-                "stars": 5294
-              }
+                "stars": 5299
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": null,
@@ -238,11 +249,12 @@
                 "archived": false,
                 "id": 2242705,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:04:16Z",
+                "last_commit": "2026-08-28T05:01:54Z",
                 "owner": "msgpack",
                 "repo": "msgpack-python",
                 "stars": 2101
-              }
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             },
             {
               "node_type": "item",
@@ -257,7 +269,8 @@
                 "owner": "explosion",
                 "repo": "srsly",
                 "stars": 485
-              }
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": null,
@@ -279,7 +292,8 @@
                 "owner": "a2",
                 "repo": "MessagePack.swift",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": null,
@@ -301,7 +315,8 @@
                 "owner": "bincode-org",
                 "repo": "bincode",
                 "stars": 3061
-              }
+              },
+              "first_seen": "2026-08-28T12:05:38.755Z"
             }
           ],
           "description": null,
@@ -313,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:12.102Z",
+    "last_updated": "2026-08-28T12:05:38.755Z",
     "original_repository_info": {
       "archived": false,
       "id": 163650590,
