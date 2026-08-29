@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protocol Buffers - Google's data interchange format",
+            "homepage": "http://protobuf.dev",
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-28T11:47:03Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:39:42Z",
+            "open_issues": 313,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71825
+            "stars": 71829,
+            "topics": [
+              "marshalling",
+              "protobuf",
+              "protobuf-runtime",
+              "protoc",
+              "protocol-buffers",
+              "protocol-compiler",
+              "rpc",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tom's Obvious, Minimal Language",
+            "homepage": "https://toml.io",
             "id": 8385616,
             "language": null,
-            "last_commit": "2026-07-03T10:35:59Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:47:57Z",
+            "open_issues": 12,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20591
+            "stars": 20594,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
         },
@@ -42,12 +61,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "New home for Smile format (https://en.wikipedia.org/wiki/Smile_(data_interchange_format))",
+            "homepage": null,
             "id": 95812766,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2025-08-27T22:46:19Z",
+            "open_issues": 1,
             "owner": "FasterXML",
             "repo": "smile-format-specification",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "hacktoberfest",
+              "smile-format"
+            ]
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
         }
@@ -66,12 +93,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.",
+                "homepage": "https://toonformat.dev",
                 "id": 1081397957,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T08:37:43Z",
+                "open_issues": 4,
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25269
+                "stars": 25269,
+                "topics": [
+                  "data-format",
+                  "llm",
+                  "serialization",
+                  "tokenization"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -89,12 +126,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+                "homepage": "https://a2a-protocol.org/",
                 "id": 954873280,
                 "language": "Shell",
-                "last_commit": "2026-08-28T10:50:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T13:20:05Z",
+                "open_issues": 238,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25529
+                "stars": 25532,
+                "topics": [
+                  "a2a",
+                  "a2a-mcp",
+                  "a2a-protocol",
+                  "a2a-server",
+                  "agents",
+                  "generative-ai",
+                  "linux-foundation"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -112,12 +162,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The programming language for agents",
+                "homepage": "https://boundaryml.com/explore",
                 "id": 701494311,
                 "language": "Rust",
-                "last_commit": "2026-08-28T10:13:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:22:21Z",
+                "open_issues": 314,
                 "owner": "BoundaryML",
                 "repo": "baml",
-                "stars": 9084
+                "stars": 9089,
+                "topics": [
+                  "boundaryml",
+                  "guardrails",
+                  "llm",
+                  "programming-language",
+                  "structured-data"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -139,12 +200,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensor library for machine learning",
+            "homepage": "https://github.com/ggml-org",
             "id": 538180525,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:45:28Z",
+            "open_issues": 352,
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15247
+            "stars": 15253,
+            "topics": [
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
         }
@@ -161,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, safe way to store and distribute tensors",
+            "homepage": "https://huggingface.co/docs/safetensors",
             "id": 540033828,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:52:34Z",
+            "open_issues": 78,
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3878
+            "stars": 3877,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
         }
@@ -185,12 +258,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Avro for JavaScript :zap:",
+                "homepage": null,
                 "id": 42375652,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-22T22:20:04Z",
+                "open_issues": 29,
                 "owner": "mtth",
                 "repo": "avsc",
-                "stars": 1384
+                "stars": 1384,
+                "topics": [
+                  "avro",
+                  "big-data",
+                  "binary-format",
+                  "encoding",
+                  "javascript",
+                  "schema-evolution",
+                  "serialization",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             },
@@ -201,12 +288,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BSON Parser for node and browser",
+                "homepage": null,
                 "id": 3658431,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:40:00Z",
+                "open_issues": 16,
                 "owner": "mongodb",
                 "repo": "js-bson",
-                "stars": 1216
+                "stars": 1216,
+                "topics": [
+                  "bson",
+                  "bson-library",
+                  "mongodb",
+                  "node-js",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -224,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of useful packages maintained by the Flutter team",
+                "homepage": null,
                 "id": 99045602,
                 "language": "Dart",
-                "last_commit": "2026-08-28T12:04:32Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T22:16:51Z",
+                "open_issues": 205,
                 "owner": "flutter",
                 "repo": "packages",
-                "stars": 5299
+                "stars": 5299,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -247,12 +350,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MessagePack serializer implementation for Python msgpack.org[Python]",
+                "homepage": "https://msgpack.org/",
                 "id": 2242705,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T05:01:54Z",
+                "open_issues": 10,
                 "owner": "msgpack",
                 "repo": "msgpack-python",
-                "stars": 2101
+                "stars": 2101,
+                "topics": [
+                  "msgpack",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             },
@@ -263,12 +374,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦉 Modern high-performance serialization utilities for Python (JSON, MessagePack, Pickle)",
+                "homepage": null,
                 "id": 159904634,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-27T08:49:53Z",
+                "open_issues": 7,
                 "owner": "explosion",
                 "repo": "srsly",
-                "stars": 485
+                "stars": 485,
+                "topics": [
+                  "json",
+                  "msgpack",
+                  "pickle",
+                  "python",
+                  "python-2",
+                  "python-3",
+                  "serialization",
+                  "ujson",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -286,12 +412,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It's like JSON, but fast and small…and Swift! – msgpack.org[Swift]",
+                "homepage": "http://msgpack.org",
                 "id": 31135777,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-06-09T13:43:02Z",
+                "open_issues": 7,
                 "owner": "a2",
                 "repo": "MessagePack.swift",
-                "stars": 291
+                "stars": 291,
+                "topics": [
+                  "messagepack",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -309,12 +443,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A binary encoder / decoder implementation in Rust.",
+                "homepage": null,
                 "id": 24130045,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-15T11:21:51Z",
+                "open_issues": 23,
                 "owner": "bincode-org",
                 "repo": "bincode",
-                "stars": 3061
+                "stars": 3061,
+                "topics": [
+                  "binary",
+                  "encoding",
+                  "rust",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
             }
@@ -328,15 +472,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:05:38.755Z",
+    "last_updated": "2026-08-29T05:03:48.011Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond",
+      "homepage": null,
       "id": 163650590,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-02-26T14:13:20Z",
+      "open_issues": 3,
       "owner": "maximveksler",
       "repo": "awesome-serialization",
-      "stars": 56
+      "stars": 56,
+      "topics": [
+        "agentic-ai",
+        "awesome-list",
+        "big-data",
+        "configuration",
+        "llm",
+        "machine-learning",
+        "rpc",
+        "serialization-formats"
+      ]
     },
     "original_repository_sha": "b81fa8a12f05519f19d0be682f6406e39487616a",
     "enhanced_repository": "enhansome/enhansome-serialization",
