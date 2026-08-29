@@ -49,7 +49,7 @@
             "open_issues": 12,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20594,
+            "stars": 20595,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
@@ -102,7 +102,7 @@
                 "open_issues": 4,
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25269,
+                "stars": 25270,
                 "topics": [
                   "data-format",
                   "llm",
@@ -135,7 +135,7 @@
                 "open_issues": 238,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25532,
+                "stars": 25533,
                 "topics": [
                   "a2a",
                   "a2a-mcp",
@@ -167,8 +167,8 @@
                 "id": 701494311,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:22:21Z",
-                "open_issues": 314,
+                "last_commit": "2026-08-29T05:31:28Z",
+                "open_issues": 315,
                 "owner": "BoundaryML",
                 "repo": "baml",
                 "stars": 9089,
@@ -206,10 +206,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-25T08:45:28Z",
-            "open_issues": 352,
+            "open_issues": 351,
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15253,
+            "stars": 15254,
             "topics": [
               "machine-learning"
             ]
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:03:48.011Z",
+    "last_updated": "2026-08-29T07:18:58.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond",

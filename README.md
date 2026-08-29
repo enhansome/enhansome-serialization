@@ -21,7 +21,7 @@
 Serialization formats for APIs, networked services, remote procedure calls, and streaming.
 
 * [Protocol Buffers](https://github.com/protocolbuffers/protobuf) ⭐ 71,829 | 🐛 313 | 🌐 C++ | 📅 2026-08-29 - Google's data interchange format. Binary.
-* [TOML](https://github.com/toml-lang/toml) ⭐ 20,594 | 🐛 12 | 📅 2026-08-28 - Tom's Obvious, Minimal Language. Textual.
+* [TOML](https://github.com/toml-lang/toml) ⭐ 20,595 | 🐛 12 | 📅 2026-08-28 - Tom's Obvious, Minimal Language. Textual.
 * [Smile](https://github.com/FasterXML/smile-format-specification) ⭐ 110 | 🐛 1 | 📅 2025-08-27 - Binary JSON format from FasterXML/Jackson. Used in Elasticsearch. Binary.
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) - Comma Separated Values. Textual.
 * [JSON](https://www.json.org) - Lightweight document data-interchange format. Textual.
@@ -63,7 +63,7 @@ Serialization formats and protocols designed for LLM agents, tool calling, token
 
 Formats optimized to minimize token consumption when passing structured data to LLMs.
 
-* [TOON](https://github.com/toon-format/toon) ⭐ 25,269 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-23 - Token-Oriented Object Notation. Compact, schema-aware JSON alternative achieving 30–60% token savings for LLM prompts. Textual.
+* [TOON](https://github.com/toon-format/toon) ⭐ 25,270 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-23 - Token-Oriented Object Notation. Compact, schema-aware JSON alternative achieving 30–60% token savings for LLM prompts. Textual.
 * [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup widely used as the native "language" of LLM input/output. Highly token-efficient vs HTML/XML. Textual.
 * [YAML](https://yaml.org) - Indentation-based format often more token-efficient than JSON for LLM contexts due to lack of braces/quotes. Textual.
 
@@ -71,20 +71,20 @@ Formats optimized to minimize token consumption when passing structured data to 
 
 Communication protocols enabling tool use and inter-agent collaboration.
 
-* [A2A](https://github.com/a2aproject/A2A) ⭐ 25,532 | 🐛 238 | 🌐 Shell | 📅 2026-08-28 - Agent2Agent Protocol. Google's open protocol for agent-to-agent communication and interoperability. JSON based. Textual.
+* [A2A](https://github.com/a2aproject/A2A) ⭐ 25,533 | 🐛 238 | 🌐 Shell | 📅 2026-08-28 - Agent2Agent Protocol. Google's open protocol for agent-to-agent communication and interoperability. JSON based. Textual.
 * [MCP](https://modelcontextprotocol.io/) - Model Context Protocol. Anthropic's open standard for connecting LLM agents to tools and data sources. JSON-RPC based. Textual.
 
 #### Structured Output
 
 Formats and schemas for constraining and validating LLM-generated structured data.
 
-* [BAML](https://github.com/BoundaryML/baml) ⭐ 9,089 | 🐛 314 | 🌐 Rust | 📅 2026-08-29 - Boundary AI Markup Language. Domain-specific language for defining LLM function signatures with type-safe structured output. Textual.
+* [BAML](https://github.com/BoundaryML/baml) ⭐ 9,089 | 🐛 315 | 🌐 Rust | 📅 2026-08-29 - Boundary AI Markup Language. Domain-specific language for defining LLM function signatures with type-safe structured output. Textual.
 
 ### **Machine Learning**
 
 Serialization of deep learning networks and weights.
 
-* [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) ⭐ 15,253 | 🐛 352 | 🌐 C++ | 📅 2026-08-25 - Quantized model format for llama.cpp/ggml. The de facto standard for local LLM inference. Binary.
+* [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) ⭐ 15,254 | 🐛 351 | 🌐 C++ | 📅 2026-08-25 - Quantized model format for llama.cpp/ggml. The de facto standard for local LLM inference. Binary.
 * [SavedModel](https://www.tensorflow.org/guide/saved_model) - TensorFlow package, weights, graph, executable code. Binary.
 * [CoreML](https://developer.apple.com/documentation/coreml) - Apple's on-device ML model format. Binary.
 * [ONNX](https://onnx.ai) - Open Neural Network Exchange. Interoperability focused. Binary.
