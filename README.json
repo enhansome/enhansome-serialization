@@ -15,11 +15,11 @@
             "id": 23357588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T04:44:55Z",
-            "open_issues": 321,
+            "last_commit": "2026-09-01T05:23:30Z",
+            "open_issues": 323,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71863,
+            "stars": 71864,
             "topics": [
               "marshalling",
               "protobuf",
@@ -49,7 +49,7 @@
             "open_issues": 8,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20596,
+            "stars": 20598,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
@@ -102,7 +102,7 @@
                 "open_issues": 4,
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25282,
+                "stars": 25287,
                 "topics": [
                   "data-format",
                   "llm",
@@ -131,11 +131,11 @@
                 "id": 954873280,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T13:20:05Z",
+                "last_commit": "2026-09-01T00:15:09Z",
                 "open_issues": 240,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25560,
+                "stars": 25571,
                 "topics": [
                   "a2a",
                   "a2a-mcp",
@@ -167,11 +167,11 @@
                 "id": 701494311,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T04:10:03Z",
-                "open_issues": 320,
+                "last_commit": "2026-09-01T04:42:25Z",
+                "open_issues": 336,
                 "owner": "BoundaryML",
                 "repo": "baml",
-                "stars": 9104,
+                "stars": 9119,
                 "topics": [
                   "boundaryml",
                   "guardrails",
@@ -205,11 +205,11 @@
             "id": 538180525,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:34:06Z",
-            "open_issues": 352,
+            "last_commit": "2026-08-31T09:59:50Z",
+            "open_issues": 351,
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15266,
+            "stars": 15272,
             "topics": [
               "machine-learning"
             ]
@@ -238,7 +238,7 @@
             "open_issues": 79,
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3880,
+            "stars": 3883,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
@@ -327,11 +327,11 @@
                 "id": 99045602,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-30T18:54:35Z",
-                "open_issues": 212,
+                "last_commit": "2026-08-31T20:49:01Z",
+                "open_issues": 218,
                 "owner": "flutter",
                 "repo": "packages",
-                "stars": 5299,
+                "stars": 5300,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:38.755Z"
@@ -356,7 +356,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T05:01:54Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "msgpack",
                 "repo": "msgpack-python",
                 "stars": 2101,
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:00:06.190Z",
+    "last_updated": "2026-09-01T05:33:01.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond",
