@@ -15,11 +15,11 @@
             "id": 23357588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T02:02:13Z",
-            "open_issues": 348,
+            "last_commit": "2026-09-13T05:02:05Z",
+            "open_issues": 339,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 72032,
+            "stars": 72034,
             "topics": [
               "marshalling",
               "protobuf",
@@ -49,7 +49,7 @@
             "open_issues": 6,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20611,
+            "stars": 20613,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
@@ -99,7 +99,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-03T07:09:24Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "toon-format",
                 "repo": "toon",
                 "stars": 25364,
@@ -135,7 +135,7 @@
                 "open_issues": 250,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25740,
+                "stars": 25750,
                 "topics": [
                   "a2a",
                   "a2a-mcp",
@@ -167,11 +167,11 @@
                 "id": 701494311,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T03:14:30Z",
-                "open_issues": 331,
+                "last_commit": "2026-09-12T10:10:03Z",
+                "open_issues": 336,
                 "owner": "BoundaryML",
                 "repo": "baml",
-                "stars": 9170,
+                "stars": 9177,
                 "topics": [
                   "boundaryml",
                   "guardrails",
@@ -205,11 +205,11 @@
             "id": 538180525,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-09T12:32:55Z",
-            "open_issues": 361,
+            "last_commit": "2026-09-12T10:52:04Z",
+            "open_issues": 362,
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15341,
+            "stars": 15344,
             "topics": [
               "machine-learning"
             ]
@@ -267,7 +267,7 @@
                 "open_issues": 30,
                 "owner": "mtth",
                 "repo": "avsc",
-                "stars": 1387,
+                "stars": 1388,
                 "topics": [
                   "avro",
                   "big-data",
@@ -327,7 +327,7 @@
                 "id": 99045602,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-12T02:53:54Z",
+                "last_commit": "2026-09-12T23:26:47Z",
                 "open_issues": 232,
                 "owner": "flutter",
                 "repo": "packages",
@@ -359,7 +359,7 @@
                 "open_issues": 15,
                 "owner": "msgpack",
                 "repo": "msgpack-python",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "msgpack",
                   "python"
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:55:35.598Z",
+    "last_updated": "2026-09-13T05:17:40.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond",
