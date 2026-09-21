@@ -15,11 +15,11 @@
             "id": 23357588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T05:07:44Z",
-            "open_issues": 464,
+            "last_commit": "2026-09-21T04:54:31Z",
+            "open_issues": 484,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 72047,
+            "stars": 72055,
             "topics": [
               "marshalling",
               "protobuf",
@@ -46,10 +46,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-15T20:12:09Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20616,
+            "stars": 20618,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
@@ -99,10 +99,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-03T07:09:24Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "toon-format",
                 "repo": "toon",
-                "stars": 25399,
+                "stars": 25400,
                 "topics": [
                   "data-format",
                   "llm",
@@ -132,10 +132,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T11:56:05Z",
-                "open_issues": 257,
+                "open_issues": 259,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25862,
+                "stars": 25871,
                 "topics": [
                   "a2a",
                   "a2a-mcp",
@@ -167,11 +167,11 @@
                 "id": 701494311,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T04:18:15Z",
-                "open_issues": 361,
+                "last_commit": "2026-09-21T04:38:43Z",
+                "open_issues": 363,
                 "owner": "BoundaryML",
                 "repo": "baml",
-                "stars": 9200,
+                "stars": 9206,
                 "topics": [
                   "boundaryml",
                   "guardrails",
@@ -209,7 +209,7 @@
             "open_issues": 364,
             "owner": "ggml-org",
             "repo": "ggml",
-            "stars": 15375,
+            "stars": 15381,
             "topics": [
               "machine-learning"
             ]
@@ -235,10 +235,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T10:47:22Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3900,
+            "stars": 3899,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:38.755Z"
@@ -327,8 +327,8 @@
                 "id": 99045602,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-20T01:34:43Z",
-                "open_issues": 261,
+                "last_commit": "2026-09-21T02:27:25Z",
+                "open_issues": 259,
                 "owner": "flutter",
                 "repo": "packages",
                 "stars": 5310,
@@ -355,8 +355,8 @@
                 "id": 2242705,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T16:06:45Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-20T06:44:19Z",
+                "open_issues": 15,
                 "owner": "msgpack",
                 "repo": "msgpack-python",
                 "stars": 2103,
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:19:07.540Z",
+    "last_updated": "2026-09-21T05:21:25.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond",
