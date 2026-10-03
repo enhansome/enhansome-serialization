@@ -15,8 +15,8 @@
             "id": 23357588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T05:02:02Z",
-            "open_issues": 470,
+            "last_commit": "2026-10-03T05:32:03Z",
+            "open_issues": 473,
             "owner": "protocolbuffers",
             "repo": "protobuf",
             "stars": 72090,
@@ -167,7 +167,7 @@
                 "id": 701494311,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T02:49:41Z",
+                "last_commit": "2026-10-03T05:38:08Z",
                 "open_issues": 380,
                 "owner": "BoundaryML",
                 "repo": "baml",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:50.819Z",
+    "last_updated": "2026-10-03T05:39:34.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond",

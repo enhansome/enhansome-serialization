@@ -20,7 +20,7 @@
 
 Serialization formats for APIs, networked services, remote procedure calls, and streaming.
 
-* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) ⭐ 72,090 | 🐛 470 | 🌐 C++ | 📅 2026-10-03 - Google's data interchange format. Binary.
+* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) ⭐ 72,090 | 🐛 473 | 🌐 C++ | 📅 2026-10-03 - Google's data interchange format. Binary.
 * [TOML](https://github.com/toml-lang/toml) ⭐ 20,625 | 🐛 8 | 📅 2026-09-27 - Tom's Obvious, Minimal Language. Textual.
 * [Smile](https://github.com/FasterXML/smile-format-specification) ⭐ 110 | 🐛 1 | 📅 2025-08-27 - Binary JSON format from FasterXML/Jackson. Used in Elasticsearch. Binary.
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) - Comma Separated Values. Textual.
