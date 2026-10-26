@@ -20,8 +20,8 @@
 
 Serialization formats for APIs, networked services, remote procedure calls, and streaming.
 
-* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) ⭐ 72,131 | 🐛 425 | 🌐 C++ | 📅 2026-10-25 - Google's data interchange format. Binary.
-* [TOML](https://github.com/toml-lang/toml) ⭐ 20,647 | 🐛 6 | 📅 2026-10-23 - Tom's Obvious, Minimal Language. Textual.
+* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) ⭐ 72,127 | 🐛 433 | 🌐 C++ | 📅 2026-10-26 - Google's data interchange format. Binary.
+* [TOML](https://github.com/toml-lang/toml) ⭐ 20,652 | 🐛 6 | 📅 2026-10-23 - Tom's Obvious, Minimal Language. Textual.
 * [Smile](https://github.com/FasterXML/smile-format-specification) ⭐ 110 | 🐛 1 | 📅 2025-08-27 - Binary JSON format from FasterXML/Jackson. Used in Elasticsearch. Binary.
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) - Comma Separated Values. Textual.
 * [JSON](https://www.json.org) - Lightweight document data-interchange format. Textual.
@@ -63,7 +63,7 @@ Serialization formats and protocols designed for LLM agents, tool calling, token
 
 Formats optimized to minimize token consumption when passing structured data to LLMs.
 
-* [TOON](https://github.com/toon-format/toon) ⭐ 25,554 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-09 - Token-Oriented Object Notation. Compact, schema-aware JSON alternative achieving 30–60% token savings for LLM prompts. Textual.
+* [TOON](https://github.com/toon-format/toon) ⭐ 25,559 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-09 - Token-Oriented Object Notation. Compact, schema-aware JSON alternative achieving 30–60% token savings for LLM prompts. Textual.
 * [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup widely used as the native "language" of LLM input/output. Highly token-efficient vs HTML/XML. Textual.
 * [YAML](https://yaml.org) - Indentation-based format often more token-efficient than JSON for LLM contexts due to lack of braces/quotes. Textual.
 
@@ -71,20 +71,20 @@ Formats optimized to minimize token consumption when passing structured data to 
 
 Communication protocols enabling tool use and inter-agent collaboration.
 
-* [A2A](https://github.com/a2aproject/A2A) ⭐ 26,286 | 🐛 288 | 🌐 Shell | 📅 2026-10-21 - Agent2Agent Protocol. Google's open protocol for agent-to-agent communication and interoperability. JSON based. Textual.
+* [A2A](https://github.com/a2aproject/A2A) ⭐ 26,296 | 🐛 290 | 🌐 Shell | 📅 2026-10-21 - Agent2Agent Protocol. Google's open protocol for agent-to-agent communication and interoperability. JSON based. Textual.
 * [MCP](https://modelcontextprotocol.io/) - Model Context Protocol. Anthropic's open standard for connecting LLM agents to tools and data sources. JSON-RPC based. Textual.
 
 #### Structured Output
 
 Formats and schemas for constraining and validating LLM-generated structured data.
 
-* [BAML](https://github.com/BoundaryML/baml) ⭐ 9,433 | 🐛 362 | 🌐 Rust | 📅 2026-10-25 - Boundary AI Markup Language. Domain-specific language for defining LLM function signatures with type-safe structured output. Textual.
+* [BAML](https://github.com/BoundaryML/baml) ⭐ 9,443 | 🐛 366 | 🌐 Rust | 📅 2026-10-26 - Boundary AI Markup Language. Domain-specific language for defining LLM function signatures with type-safe structured output. Textual.
 
 ### **Machine Learning**
 
 Serialization of deep learning networks and weights.
 
-* [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) ⭐ 15,525 | 🐛 378 | 🌐 C++ | 📅 2026-10-20 - Quantized model format for llama.cpp/ggml. The de facto standard for local LLM inference. Binary.
+* [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) ⭐ 15,536 | 🐛 378 | 🌐 C++ | 📅 2026-10-20 - Quantized model format for llama.cpp/ggml. The de facto standard for local LLM inference. Binary.
 * [SavedModel](https://www.tensorflow.org/guide/saved_model) - TensorFlow package, weights, graph, executable code. Binary.
 * [CoreML](https://developer.apple.com/documentation/coreml) - Apple's on-device ML model format. Binary.
 * [ONNX](https://onnx.ai) - Open Neural Network Exchange. Interoperability focused. Binary.
@@ -177,17 +177,17 @@ Language-native serialization formats for in-transit data (aka memory-based "liv
 
 #### **Dart**
 
-* [Dart Object Serialization](https://github.com/flutter/packages/tree/main/packages/standard_message_codec) ⭐ 5,327 | 🐛 253 | 🌐 Dart | 📅 2026-10-24 - RAM to Disk serialization. Dart-specific. Binary.
+* [Dart Object Serialization](https://github.com/flutter/packages/tree/main/packages/standard_message_codec) ⭐ 5,328 | 🐛 265 | 🌐 Dart | 📅 2026-10-24 - RAM to Disk serialization. Dart-specific. Binary.
 
 #### **Python**
 
-* [msgpack-python](https://github.com/msgpack/msgpack-python) ⭐ 2,108 | 🐛 16 | 🌐 Python | 📅 2026-10-19 - MessagePack serializer implementation for Python.
-* [srsly](https://github.com/explosion/srsly) ⭐ 487 | 🐛 9 | 🌐 Python | 📅 2026-10-24 - Modern high-performance serialization utilities for Python.
+* [msgpack-python](https://github.com/msgpack/msgpack-python) ⭐ 2,108 | 🐛 17 | 🌐 Python | 📅 2026-10-19 - MessagePack serializer implementation for Python.
+* [srsly](https://github.com/explosion/srsly) ⭐ 487 | 🐛 10 | 🌐 Python | 📅 2026-10-24 - Modern high-performance serialization utilities for Python.
 * [pickle](https://docs.python.org/3/library/pickle.html) - RAM to Disk serialization. Binary.
 
 #### **Swift**
 
-* [MessagePack.swift](https://github.com/a2/MessagePack.swift) ⭐ 290 | 🐛 7 | 🌐 Swift | 📅 2020-06-09 - Swift MessagePack Serializer.
+* [MessagePack.swift](https://github.com/a2/MessagePack.swift) ⭐ 289 | 🐛 7 | 🌐 Swift | 📅 2020-06-09 - Swift MessagePack Serializer.
 
 #### **Java**
 
@@ -224,4 +224,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
