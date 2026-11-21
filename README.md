@@ -20,7 +20,7 @@
 
 Serialization formats for APIs, networked services, remote procedure calls, and streaming.
 
-* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) ⭐ 72,191 | 🐛 402 | 🌐 C++ | 📅 2026-11-20 - Google's data interchange format. Binary.
+* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) ⭐ 72,188 | 🐛 391 | 🌐 C++ | 📅 2026-11-21 - Google's data interchange format. Binary.
 * [TOML](https://github.com/toml-lang/toml) ⭐ 20,672 | 🐛 5 | 📅 2026-11-09 - Tom's Obvious, Minimal Language. Textual.
 * [Smile](https://github.com/FasterXML/smile-format-specification) ⭐ 110 | 🐛 2 | 📅 2025-08-27 - Binary JSON format from FasterXML/Jackson. Used in Elasticsearch. Binary.
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) - Comma Separated Values. Textual.
@@ -71,20 +71,20 @@ Formats optimized to minimize token consumption when passing structured data to 
 
 Communication protocols enabling tool use and inter-agent collaboration.
 
-* [A2A](https://github.com/a2aproject/A2A) ⭐ 26,600 | 🐛 322 | 🌐 Shell | 📅 2026-11-18 - Agent2Agent Protocol. Google's open protocol for agent-to-agent communication and interoperability. JSON based. Textual.
+* [A2A](https://github.com/a2aproject/A2A) ⭐ 26,617 | 🐛 327 | 🌐 Shell | 📅 2026-11-20 - Agent2Agent Protocol. Google's open protocol for agent-to-agent communication and interoperability. JSON based. Textual.
 * [MCP](https://modelcontextprotocol.io/) - Model Context Protocol. Anthropic's open standard for connecting LLM agents to tools and data sources. JSON-RPC based. Textual.
 
 #### Structured Output
 
 Formats and schemas for constraining and validating LLM-generated structured data.
 
-* [BAML](https://github.com/BoundaryML/baml) ⭐ 9,526 | 🐛 362 | 🌐 Rust | 📅 2026-11-20 - Boundary AI Markup Language. Domain-specific language for defining LLM function signatures with type-safe structured output. Textual.
+* [BAML](https://github.com/BoundaryML/baml) ⭐ 9,527 | 🐛 362 | 🌐 Rust | 📅 2026-11-21 - Boundary AI Markup Language. Domain-specific language for defining LLM function signatures with type-safe structured output. Textual.
 
 ### **Machine Learning**
 
 Serialization of deep learning networks and weights.
 
-* [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) ⭐ 16,126 | 🐛 387 | 🌐 C++ | 📅 2026-11-16 - Quantized model format for llama.cpp/ggml. The de facto standard for local LLM inference. Binary.
+* [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) ⭐ 16,138 | 🐛 387 | 🌐 C++ | 📅 2026-11-16 - Quantized model format for llama.cpp/ggml. The de facto standard for local LLM inference. Binary.
 * [SavedModel](https://www.tensorflow.org/guide/saved_model) - TensorFlow package, weights, graph, executable code. Binary.
 * [CoreML](https://developer.apple.com/documentation/coreml) - Apple's on-device ML model format. Binary.
 * [ONNX](https://onnx.ai) - Open Neural Network Exchange. Interoperability focused. Binary.
@@ -125,7 +125,7 @@ Serialization formats designed for application and infrastructure configuration.
 
 Serialization formats designed with security and robustness in mind.
 
-* [safetensors](https://github.com/huggingface/safetensors) ⭐ 3,963 | 🐛 130 | 🌐 Rust | 📅 2026-11-20 - Safe serialization of tensors for machine learning. Binary.
+* [safetensors](https://github.com/huggingface/safetensors) ⭐ 3,973 | 🐛 136 | 🌐 Rust | 📅 2026-11-20 - Safe serialization of tensors for machine learning. Binary.
 * [Sealed Object Serialization](https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/encrypt) - Encrypted serialization for web data. Textual/Binary.
 * [PASETO](https://paseto.io/) - Platform-Agnostic Security Tokens. Secure alternative to JWT. Textual.
 * [COSE](https://datatracker.ietf.org/doc/html/rfc8152) - CBOR Object Signing and Encryption. Used in WebAuthn/FIDO2. Binary.
@@ -173,11 +173,11 @@ Language-native serialization formats for in-transit data (aka memory-based "liv
 #### **JavaScript**
 
 * [avsc](https://github.com/mtth/avsc) ⭐ 1,389 | 🐛 31 | 🌐 JavaScript | 📅 2026-02-22 - JavaScript implementation of Apache Avro. Textual.
-* [BSON.js](https://github.com/mongodb/js-bson) ⭐ 1,216 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-19 - BSON serializer. Binary.
+* [BSON.js](https://github.com/mongodb/js-bson) ⭐ 1,216 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-20 - BSON serializer. Binary.
 
 #### **Dart**
 
-* [Dart Object Serialization](https://github.com/flutter/packages/tree/main/packages/standard_message_codec) ⭐ 5,344 | 🐛 301 | 🌐 Dart | 📅 2026-11-20 - RAM to Disk serialization. Dart-specific. Binary.
+* [Dart Object Serialization](https://github.com/flutter/packages/tree/main/packages/standard_message_codec) ⭐ 5,346 | 🐛 306 | 🌐 Dart | 📅 2026-11-21 - RAM to Disk serialization. Dart-specific. Binary.
 
 #### **Python**
 
@@ -224,4 +224,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
